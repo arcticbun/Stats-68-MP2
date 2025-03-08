@@ -53,14 +53,5 @@ This project focuses on the exploratory data analysis (EDA) of athlete performan
 2. Open the R script and ensure all required libraries are installed.
 3. Run the analysis by executing the scripts in order.
 
-## Conclusion
-This project highlights the power of EDA in uncovering patterns and relationships within athlete data. The insights gathered can be a foundation for future predictive modeling or deeper statistical analysis.
-
-## Repository
-Feel free to explore the code and visualizations in this repository. Feedback and collaboration are welcome!
-
 ---
-
-**Author:** [Your Name]  
-**Contact:** [Your Email or LinkedIn]
 
